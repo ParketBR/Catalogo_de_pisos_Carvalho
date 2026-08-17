@@ -19,9 +19,15 @@
           desc: 'A base do luxo. Texturas orgânicas e padrões exclusivos que definem o caráter do seu espaço.',
           cover: 'pisos/piso.webp',
           videos: [
-            { type: 'youtube', id: 'fHEBXGLVck4', vertical: true, title: 'A presença absoluta do material' },
-            { type: 'youtube', id: 'i4gXTyMsTZo', vertical: true, title: 'Coleção Brazil: o espectro tonal da madeira brasileira' },
-            { type: 'youtube', id: 'j6ptdgucfRs', vertical: true, title: 'Brazil' },
+            { type: 'youtube', id: 'kol9WojQX3A', vertical: true, title: 'Piso reto Carvalho Europeu · Fazenda Boa Vista' },
+            { type: 'youtube', id: 'MVq-K3wZeFY', vertical: true, title: 'Piso reto Carvalho Europeu em obra' },
+            { type: 'youtube', id: 'xLhTEQXBvW0', vertical: true, title: 'Carvalho Europeu em régua reta' },
+            { type: 'youtube', id: '13sezmJet9c', vertical: true, title: 'Piso reto Carvalho Nevado · Áurea Pinheiros' },
+            { type: 'youtube', id: 'tV_OkZD8Bgk', vertical: true, title: 'Régua Carvalho Europeu Naturalle · Silvia Veríssimo' },
+            { type: 'youtube', id: 'w7qaePqZAQ4', vertical: true, title: 'Piso reto Carvalho Europeu Montblanc' },
+            { type: 'youtube', id: 'Kc03BikTAUg', vertical: true, title: 'Carvalho Europeu' },
+            { type: 'youtube', id: 'M4UQmQ48K6E', vertical: true, title: 'Piso de Carvalho' },
+            { type: 'youtube', id: '-EWE2pR337k', vertical: true, title: 'Apartamento Áurea Pinheiros' },
            ],
           collections: [
             {
