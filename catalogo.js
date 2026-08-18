@@ -27,7 +27,6 @@
             { type: 'youtube', id: 'w7qaePqZAQ4', vertical: true, title: 'Piso reto Carvalho Europeu Montblanc' },
             { type: 'youtube', id: 'Kc03BikTAUg', vertical: true, title: 'Carvalho Europeu' },
             { type: 'youtube', id: 'M4UQmQ48K6E', vertical: true, title: 'Piso de Carvalho' },
-            { type: 'youtube', id: '-EWE2pR337k', vertical: true, title: 'Apartamento Áurea Pinheiros' },
            ],
           collections: [
             {
