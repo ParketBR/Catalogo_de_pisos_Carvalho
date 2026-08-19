@@ -25,7 +25,6 @@
             { type: 'youtube', id: '13sezmJet9c', vertical: true, title: 'Piso reto Carvalho Nevado · Áurea Pinheiros' },
             { type: 'youtube', id: 'tV_OkZD8Bgk', vertical: true, title: 'Régua Carvalho Europeu Naturalle · Silvia Veríssimo' },
             { type: 'youtube', id: 'w7qaePqZAQ4', vertical: true, title: 'Piso reto Carvalho Europeu Montblanc' },
-            { type: 'youtube', id: 'Kc03BikTAUg', vertical: true, title: 'Carvalho Europeu' },
             { type: 'youtube', id: 'M4UQmQ48K6E', vertical: true, title: 'Piso de Carvalho' },
            ],
           collections: [
