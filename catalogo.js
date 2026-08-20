@@ -1194,10 +1194,22 @@
         const total = document.getElementById('texturas-total');
         const stage = wrap.querySelector('.texturas-stage');  
 
-        // Catálogo de carvalhos: a seção exibe apenas a textura de carvalho.
-        // Descrições oficiais de parket.com.br (seção Revestimentos).
+        // Catálogo de carvalhos: a seção exibe o carvalho europeu e seus
+        // acabamentos, ordenados do tom mais claro para o mais escuro.
+        // A primeira descrição é a oficial de parket.com.br (seção Revestimentos).
         const ESPECIES = [
           ['carvalho-europeu', 'Carvalho Europeu', 'Nobreza atemporal em tons claros e acetinados, com veios suaves que trazem equilíbrio entre tradição e modernidade.'],
+          ['carvalho-europeu-white', 'Carvalho Europeu White', 'O acabamento mais claro da linha: um véu esbranquiçado que abre o ambiente e deixa o veio aparecer como um desenho discreto.'],
+          ['carvalho-europeu-urban-grey', 'Carvalho Europeu Urban Grey', 'Cinza urbano de baixa saturação, sereno e contemporâneo, que veste o piso sem competir com a arquitetura.'],
+          ['carvalho-europeu-wild-grey', 'Carvalho Europeu Wild Grey', 'Cinza de leitura mais viva, com contraste marcado entre veio e fundo — um carvalho de personalidade rústica.'],
+          ['carvalho-europeu-nude', 'Carvalho Europeu Nude', 'Tom neutro e acolhedor, levemente rosado, que traz suavidade à madeira e combina com paletas claras.'],
+          ['carvalho-europeu-nature-brown', 'Carvalho Europeu Nature Brown', 'Castanho suave e natural, equilibrado entre calor e sobriedade, ideal para ambientes de luz difusa.'],
+          ['carvalho-europeu-natural', 'Carvalho Europeu Natural', 'A cor autêntica do carvalho, preservada como sai da madeira: mel discreto, veios legíveis e presença atemporal.'],
+          ['carvalho-europeu-concrete-grey', 'Carvalho Europeu Concrete Grey', 'Cinza mineral inspirado no concreto aparente, de aspecto seco e contemporâneo.'],
+          ['carvalho-europeu-light-brown', 'Carvalho Europeu Light Brown', 'Marrom médio de fundo quente, que aprofunda o desenho da madeira sem escurecer o ambiente.'],
+          ['carvalho-europeu-chemical', 'Carvalho Europeu Chemical', 'Acabamento de reação, em que o tom escuro nasce da própria madeira e revela o veio com profundidade.'],
+          ['carvalho-europeu-black-walnut', 'Carvalho Europeu Black Walnut', 'Castanho profundo com nuances de nogueira, denso e elegante, para composições de alto contraste.'],
+          ['carvalho-europeu-all-black', 'Carvalho Europeu All Black', 'O extremo escuro da linha: preto pleno em que o veio aparece apenas como textura, num efeito gráfico e marcante.'],
         ];
         const n = ESPECIES.length;
         const pad = (v) => String(v).padStart(2, '0');
