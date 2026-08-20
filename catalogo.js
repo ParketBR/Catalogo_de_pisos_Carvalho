@@ -1205,7 +1205,7 @@
         // Monta as imagens empilhadas (crossfade por opacity)
         ESPECIES.forEach(([slug, label], i) => {
           const img = document.createElement('img');
-          img.src = `${BASE}texturas/${slug}.jpg`;
+          img.src = `${BASE}texturas/${slug}.webp`;
           img.alt = '';
           img.loading = 'lazy';
           img.decoding = 'async';
