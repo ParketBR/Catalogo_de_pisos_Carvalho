@@ -79,7 +79,6 @@
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/Imagem_7-30-1.webp", focus: 'bottom' },
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/IMG_6862-1-scaled.jpg", name: "Carvalho Europeu<br>Mont Blanc" },
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/IMG_8925-2-1.jpeg", name: "Carvalho Europeu Capuccino" },
-                { src: "https://parket.com.br/wp-content/uploads/2026/03/IMG_8932-2-1.jpeg", name: "Carvalho Europeu Capuccino" },
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/oak-flooring-dinesen-victoria-miro-gallery-wide-wooden-floorboards-02-1.jpg", name: "Carvalho Europeu Naturalle" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-01.jpg", name: "Carvalho Europeu Milano" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-03.jpg", name: "Carvalho Europeu<br>Mont Blanc" },
