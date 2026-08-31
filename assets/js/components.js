@@ -190,7 +190,7 @@ const PARKET_PHOTOS = (() => {
     i => `pisos/unicos/${String(i).padStart(2,'0')}.webp`,
     { 1:'Pau Ferro',2:'Lapacho',3:'Lapacho',4:'Nogueira' });
 
-  // Pisos › Carvalhos (remote 30)
+  // Pisos › Carvalhos (remote 28)
   const carvalhosUrls = [
     'https://parket.com.br/wp-content/uploads/2026/03/4D5A0231-b-1-scaled.jpg',
     'https://parket.com.br/wp-content/uploads/2026/03/27e09f2b-808a-4ecb-b60d-c2702e023383-1.jpg',
@@ -203,7 +203,6 @@ const PARKET_PHOTOS = (() => {
     'https://parket.com.br/wp-content/uploads/2026/03/IMG_8925-2-1.jpeg',
     'https://parket.com.br/wp-content/uploads/2026/03/IMG_8932-2-1.jpeg',
     'https://parket.com.br/wp-content/uploads/2026/03/oak-flooring-dinesen-victoria-miro-gallery-wide-wooden-floorboards-02-1.jpg',
-    'https://parket.com.br/wp-content/uploads/2026/03/sao_paulo_tch1-1.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-01.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-03.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-05.jpg',
@@ -212,7 +211,6 @@ const PARKET_PHOTOS = (() => {
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-08.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-09.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-11.jpg',
-    'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-12.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-13.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-15.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-16.jpg',
@@ -223,7 +221,7 @@ const PARKET_PHOTOS = (() => {
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-24.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-25.jpg',
   ];
-  const carvalhosNames = { 1:'Carvalho Europeu Naturalle',2:'Carvalho Europeu Mont Blanc',3:'Carvalho Europeu Mont Blanc',4:'Carvalho Europeu Cappuccino',5:'Carvalho Europeu Naturalle',6:'Carvalho Europeu Naturalle',7:'Carvalho Europeu Naturalle',8:'Carvalho Europeu Light Brown',9:'Carvalho Europeu Light Brown',10:'Carvalho Europeu Smoke',11:'Carvalho Europeu Naturalle',12:'Carvalho Europeu Marrone',13:'Carvalho Europeu Naturalle',14:'Carvalho Europeu Mont Blanc',15:'Carvalho Europeu Nevado',16:'Carvalho Europeu Batman',17:'Carvalho Europeu Armani',18:'Carvalho Europeu Armani',19:'Carvalho Europeu Smoke',20:'Carvalho Europeu Giz',21:'Carvalho Europeu Wild Grey',22:'Carvalho Europeu Armani',23:'Carvalho Europeu Naturalle',24:'Carvalho Europeu Smoke',25:'Carvalho Europeu Naturalle',26:'Carvalho Europeu Milano',27:'Carvalho Europeu Naturalle',28:'Carvalho Europeu All Black',29:'Carvalho Europeu Nevado',30:'Carvalho Europeu Batman' };
+  const carvalhosNames = { 1:'Carvalho Europeu Naturalle',2:'Carvalho Europeu Mont Blanc',3:'Carvalho Europeu Mont Blanc',4:'Carvalho Europeu Cappuccino',5:'Carvalho Europeu Naturalle',6:'Carvalho Europeu Naturalle',7:'Carvalho Europeu Naturalle',8:'Carvalho Europeu Light Brown',9:'Carvalho Europeu Light Brown',10:'Carvalho Europeu Smoke',11:'Carvalho Europeu Naturalle',12:'Carvalho Europeu Naturalle',13:'Carvalho Europeu Mont Blanc',14:'Carvalho Europeu Nevado',15:'Carvalho Europeu Batman',16:'Carvalho Europeu Armani',17:'Carvalho Europeu Armani',18:'Carvalho Europeu Smoke',19:'Carvalho Europeu Giz',20:'Carvalho Europeu Armani',21:'Carvalho Europeu Naturalle',22:'Carvalho Europeu Smoke',23:'Carvalho Europeu Naturalle',24:'Carvalho Europeu Milano',25:'Carvalho Europeu Naturalle',26:'Carvalho Europeu All Black',27:'Carvalho Europeu Nevado',28:'Carvalho Europeu Batman' };
   carvalhosUrls.forEach((src, idx) => {
     photos.push({ cat: 'Pisos › Carvalhos', name: carvalhosNames[idx+1], page: 'pisos.html#carvalhos', src });
   });
