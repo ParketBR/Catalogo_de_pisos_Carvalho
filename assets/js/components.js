@@ -190,7 +190,7 @@ const PARKET_PHOTOS = (() => {
     i => `pisos/unicos/${String(i).padStart(2,'0')}.webp`,
     { 1:'Pau Ferro',2:'Lapacho',3:'Lapacho',4:'Nogueira' });
 
-  // Pisos › Carvalhos (remote 28)
+  // Pisos › Carvalhos (remote 27)
   const carvalhosUrls = [
     'https://parket.com.br/wp-content/uploads/2026/03/4D5A0231-b-1-scaled.jpg',
     'https://parket.com.br/wp-content/uploads/2026/03/27e09f2b-808a-4ecb-b60d-c2702e023383-1.jpg',
@@ -198,7 +198,6 @@ const PARKET_PHOTOS = (() => {
     'https://parket.com.br/wp-content/uploads/2026/03/european-oak-capuccino-1.jpeg',
     'https://parket.com.br/wp-content/uploads/2026/03/European-Oak-Giant-1.jpg',
     'https://parket.com.br/wp-content/uploads/2026/03/Imagem_7-30-1.webp',
-    'https://parket.com.br/wp-content/uploads/2026/03/IMG_0150-1-scaled.jpg',
     'https://parket.com.br/wp-content/uploads/2026/03/IMG_6862-1-scaled.jpg',
     'https://parket.com.br/wp-content/uploads/2026/03/IMG_8925-2-1.jpeg',
     'https://parket.com.br/wp-content/uploads/2026/03/IMG_8932-2-1.jpeg',
@@ -221,7 +220,7 @@ const PARKET_PHOTOS = (() => {
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-24.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CA-25.jpg',
   ];
-  const carvalhosNames = { 1:'Carvalho Europeu Naturalle',2:'Carvalho Europeu Mont Blanc',3:'Carvalho Europeu Mont Blanc',4:'Carvalho Europeu Cappuccino',5:'Carvalho Europeu Naturalle',6:'Carvalho Europeu Naturalle',7:'Carvalho Europeu Naturalle',8:'Carvalho Europeu Light Brown',9:'Carvalho Europeu Light Brown',10:'Carvalho Europeu Smoke',11:'Carvalho Europeu Naturalle',12:'Carvalho Europeu Naturalle',13:'Carvalho Europeu Mont Blanc',14:'Carvalho Europeu Nevado',15:'Carvalho Europeu Batman',16:'Carvalho Europeu Armani',17:'Carvalho Europeu Armani',18:'Carvalho Europeu Smoke',19:'Carvalho Europeu Giz',20:'Carvalho Europeu Armani',21:'Carvalho Europeu Naturalle',22:'Carvalho Europeu Smoke',23:'Carvalho Europeu Naturalle',24:'Carvalho Europeu Milano',25:'Carvalho Europeu Naturalle',26:'Carvalho Europeu All Black',27:'Carvalho Europeu Nevado',28:'Carvalho Europeu Batman' };
+  const carvalhosNames = { 1:'Carvalho Europeu Naturalle',2:'Carvalho Europeu Mont Blanc',3:'Carvalho Europeu Mont Blanc',4:'Carvalho Europeu Cappuccino',5:'Carvalho Europeu Naturalle',6:'Carvalho Europeu Naturalle',7:'Carvalho Europeu Light Brown',8:'Carvalho Europeu Light Brown',9:'Carvalho Europeu Smoke',10:'Carvalho Europeu Naturalle',11:'Carvalho Europeu Naturalle',12:'Carvalho Europeu Mont Blanc',13:'Carvalho Europeu Nevado',14:'Carvalho Europeu Batman',15:'Carvalho Europeu Armani',16:'Carvalho Europeu Armani',17:'Carvalho Europeu Smoke',18:'Carvalho Europeu Giz',19:'Carvalho Europeu Armani',20:'Carvalho Europeu Naturalle',21:'Carvalho Europeu Smoke',22:'Carvalho Europeu Naturalle',23:'Carvalho Europeu Milano',24:'Carvalho Europeu Naturalle',25:'Carvalho Europeu All Black',26:'Carvalho Europeu Nevado',27:'Carvalho Europeu Batman' };
   carvalhosUrls.forEach((src, idx) => {
     photos.push({ cat: 'Pisos › Carvalhos', name: carvalhosNames[idx+1], page: 'pisos.html#carvalhos', src });
   });

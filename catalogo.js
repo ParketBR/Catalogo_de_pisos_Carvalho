@@ -77,7 +77,6 @@
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/european-oak-capuccino-1.jpeg", name: "Carvalho Europeu Cappuccino" },
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/European-Oak-Giant-1.jpg", name: "Carvalho Europeu<br>Mont Blanc" },
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/Imagem_7-30-1.webp", focus: 'bottom' },
-                { src: "https://parket.com.br/wp-content/uploads/2026/03/IMG_0150-1-scaled.jpg", name: "Carvalho Europeu Naturalle" },
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/IMG_6862-1-scaled.jpg", name: "Carvalho Europeu<br>Mont Blanc" },
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/IMG_8925-2-1.jpeg", name: "Carvalho Europeu Capuccino" },
                 { src: "https://parket.com.br/wp-content/uploads/2026/03/IMG_8932-2-1.jpeg", name: "Carvalho Europeu Capuccino" },
